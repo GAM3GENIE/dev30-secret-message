@@ -2,6 +2,11 @@
 
 Using array methods, you will transform an array of strings into a secret message!
 
+You will start with the following code:
+
+let secretMessage = ['Learning', 'is', 'not', 'about', 'what', 'you', 'get', 'easily', 'the', 'first', 'time,', 'it', 'is', 'about', 'what', 'you', 'can', 'figure', 'out.', '-2015,', 'Chris', 'Pine,', 'Learn', 'JavaScript'];
+
+
 Step 1.
 
 Use an array method to remove the last string of the array secretMessage.
